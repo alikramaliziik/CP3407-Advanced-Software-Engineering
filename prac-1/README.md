@@ -2,7 +2,8 @@
 
 ## Project Overview
 This repository is for the development of Tom's Trails Online, a web application to help hikers discover trails, order equipment, and plan trips. The project is inspired by Chapter 1 of "Head First Software Development," focusing on great software development practices such as iteration, customer feedback, and delivering what is needed on time and on budget.
-##Initial Backlog Ideas
+
+#Initial Backlog Ideas
 
 1. **As a customer, I want to browse trails** so that I can see available hiking options.  
    - Priority: 10  
