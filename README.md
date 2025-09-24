@@ -1,5 +1,4 @@
 # CP3407-Advanced-Software-Engineering
-# CP3407-Advanced-Software-Engineering
 
 ## Project Overview
 This repository is for the CP3407 Advanced Software Engineering project. The goal is to develop an online platform for trail guides and equipment sales ). We will apply iterative development: gathering requirements as features, prioritizing them (10 = high, 50 = low), estimating effort in days, and planning iterations of ~20 working days.
